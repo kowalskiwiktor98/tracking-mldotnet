@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MLDataParser": {
+      "commandName": "Project",
+      "commandLineArgs": "<\"C:\\Users\\Wiktor\\Desktop\\tracking_data\\tracking_data.rpt\" >\"C:\\Users\\Wiktor\\Desktop\\tracking_data\\parseTest.txt\""
+    }
+  }
+}

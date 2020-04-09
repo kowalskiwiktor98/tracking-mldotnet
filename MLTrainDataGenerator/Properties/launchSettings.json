@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MLTrainDataGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "<\"C:\\Users\\Wiktor\\Desktop\\tracking_data\\tracking_data_final.csv\" >\"C:\\Users\\Wiktor\\Desktop\\tracking_data\\tracking_data_training.csv\""
+    }
+  }
+}
